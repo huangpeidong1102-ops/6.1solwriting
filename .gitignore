@@ -1,0 +1,13 @@
+# Local research inputs and temporary outputs
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.env.*
+work/
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.zip

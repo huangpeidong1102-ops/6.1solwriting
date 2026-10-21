@@ -1,0 +1,4 @@
+interface:
+  display_name: "6.1sol writing"
+  short_description: "增材制造高熵合金SCI写作，贴近导师文风并清理防御性表达"
+  default_prompt: "Use $6-1sol-writing to draft or revise my additive-manufacturing high-entropy-alloy manuscript in my research group's style."
